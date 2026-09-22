@@ -63,7 +63,10 @@ Travaux et exercices autour de la **POO en C#**.
 ## 🔥 Activité
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pt74bsx&theme=github-dark-blue&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Pt74bsx&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
