@@ -2,9 +2,10 @@
 
 # 👑 Salut, moi c'est Romain-Augusto
 
-### Étudiant développeur à l'ETML · C# / .NET · Lausanne 🇨🇭
+### Étudiant développeur à l'ETML · Lausanne 🇨🇭
 
-Je transforme ce que j'apprends en applications concrètes, avec un intérêt particulier pour la programmation orientée objet et le développement de jeux.
+Je conçois des applications, des jeux, des scripts d'administration, des systèmes embarqués et des expériences Web.  
+J'aime transformer les notions apprises en projets concrets, documentés et faciles à explorer.
 
 <img src="https://komarev.com/ghpvc/?username=Pt74bsx&label=Visiteurs&color=6f42c1&style=flat-square" alt="Compteur de visiteurs" />
 
@@ -12,28 +13,47 @@ Je transforme ce que j'apprends en applications concrètes, avec un intérêt pa
 
 ## 🐧 À propos de moi
 
-- 🎓 Étudiant en développement logiciel à l'**ETML**
-- 💻 Je développe principalement en **C# et .NET**
-- 🧠 Je consolide mes compétences en **POO, architecture et tests**
-- 🎮 J'aime concevoir des applications et des jeux
-- 🚀 Mon objectif : construire des projets toujours plus propres, utiles et ambitieux
+- 🎓 Étudiant en développement informatique à l'**ETML**
+- 💻 Développement principalement en **C# / .NET**
+- 🧠 Intérêt pour la **POO, l'architecture, la sécurité et les tests**
+- 🎮 Création d'applications et de jeux
+- 🌐 Développement Web avec **HTML, CSS, JavaScript et Node.js**
+- 🔧 Expérimentation avec **Arduino, C++ et PowerShell**
+- 🚀 Objectif : construire des projets toujours plus propres, utiles et ambitieux
 - 📍 Lausanne, Suisse
 
 ## 🛠️ Technologies et outils
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,vscode&perline=6" alt="C#, .NET, Git, GitHub, Visual Studio et VS Code" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,arduino,html,css,js,nodejs,sqlite,powershell,git,github,visualstudio,vscode&perline=7" alt="Technologies et outils utilisés" />
 </div>
 
 ## 🚀 Projets sélectionnés
 
-### 🎮 [Shoot Me Up](https://github.com/Pt74bsx/320_shootMeUp)
+| Projet | Présentation | Technologies |
+|---|---|---|
+| [🎮 Shoot Me Up](https://github.com/Pt74bsx/320_shootMeUp) | Jeu complet réalisé dans le cadre du module P320 | C# · .NET · POO |
+| [🔑 EasyPasswords](https://github.com/Pt74bsx/EasyPasswords) | Gestionnaire de mots de passe avec génération, évaluation et stockage protégé | C# · .NET · Sécurité |
+| [🏠 SmartHome](https://github.com/Pt74bsx/SmartHome) | Maquette domotique pilotant capteurs, LCD, éclairage, ventilation et servomoteurs | Arduino · C++ · IoT |
+| [🔐 SecretCode](https://github.com/Pt74bsx/SecretCode) | Jeu console à quatre niveaux pour retrouver un code secret | C# · Console |
+| [🖥️ SysInfoLogger](https://github.com/Pt74bsx/Sysinfologger) | Collecte et journalisation d'informations système locales ou distantes | PowerShell · Windows |
+| [🚘 Site Web statique](https://github.com/Pt74bsx/P_Web-Statique-293) | Site multipage responsive consacré à l'univers Mercedes-Benz | HTML · CSS · JavaScript |
 
-Jeu réalisé en **C#** dans le cadre du module P320. Ce projet met en pratique la programmation orientée objet et l'organisation d'une application complète.
+## 🌱 Autre projet récent
 
-### 🧩 [Programmation orientée objet](https://github.com/Pt74bsx/320-POO)
+### [SemaineVerte – DevChallenge](https://github.com/Pt74bsx/SemaineVerte-DevChallenge)
 
-Exercices et réalisations autour des concepts fondamentaux de la POO en C# : encapsulation, héritage, interfaces, exceptions, UML et tests.
+Application Web pédagogique de gestion de notes et de calcul de moyennes, développée avec **Node.js, Express et SQLite** dans le cadre d'un challenge collaboratif.
+
+## 📚 Ce que je travaille actuellement
+
+- conception orientée objet et séparation des responsabilités ;
+- interfaces utilisateurs claires ;
+- stockage et protection des données ;
+- développement Web responsive ;
+- automatisation de tâches système ;
+- intégration de capteurs et d'actionneurs ;
+- documentation technique de qualité.
 
 ## 📊 Activité GitHub
 
@@ -47,7 +67,7 @@ Exercices et réalisations autour des concepts fondamentaux de la POO en C# : en
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pt74bsx/Pt74bsx/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pt74bsx/Pt74bsx/output/github-contribution-grid-snake.svg">
-    <img alt="Animation de mes contributions GitHub" src="https://raw.githubusercontent.com/Pt74bsx/Pt74bsx/output/github-contribution-grid-snake.svg">
+    <img alt="Animation des contributions GitHub" src="https://raw.githubusercontent.com/Pt74bsx/Pt74bsx/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
