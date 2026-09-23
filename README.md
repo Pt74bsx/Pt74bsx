@@ -2,7 +2,9 @@
 
 # 👑 Salut, moi c'est Romain-Augusto
 
-### Étudiant développeur à l'ETML · Lausanne 🇨🇭
+### Étudiant développeur à l'ETML · Lausanne
+<img width="20" height="20" alt="🇨🇭" src="https://github.com/user-attachments/assets/aab71b3e-044a-4cab-8496-e9fc457dea01"/>
+
 
 Je conçois des applications, des jeux, des scripts d'administration, des systèmes embarqués et des expériences Web.  
 J'aime transformer les notions apprises en projets concrets, documentés et faciles à explorer.
