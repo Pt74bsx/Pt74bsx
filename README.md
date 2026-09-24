@@ -34,6 +34,7 @@ J'aime transformer les notions apprises en projets concrets, documentés et faci
 
 | Projet | Présentation | Technologies |
 |---|---|---|
+| [🤖 discordjs-typescript-bot-template](https://github.com/Pt74bsx/discordjs-typescript-bot-template) | Template d'un bot discord | TypeScript · JavaScript |
 | [🎮 Shoot Me Up](https://github.com/Pt74bsx/320_shootMeUp) | Jeu complet réalisé dans le cadre du module P320 | C# · .NET · POO |
 | [🔑 EasyPasswords](https://github.com/Pt74bsx/EasyPasswords) | Gestionnaire de mots de passe avec génération, évaluation et stockage protégé | C# · .NET · Sécurité |
 | [🏠 SmartHome](https://github.com/Pt74bsx/SmartHome) | Maquette domotique pilotant capteurs, LCD, éclairage, ventilation et servomoteurs | Arduino · C++ · IoT |
