@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👑 Salut, moi c'est Romain-Augusto 
+# 👑 Salut, moi c'est Romain-Augusto
 
 ### Étudiant développeur à l'ETML · Lausanne
 <img width="20" height="20" alt="🇨🇭" src="https://github.com/user-attachments/assets/aab71b3e-044a-4cab-8496-e9fc457dea01"/>
